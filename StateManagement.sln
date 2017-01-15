@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "StateManagement", "..\..\..\..\documents\visual studio 2015\Projects\StateManagement\StateManagement.xproj", "{EB754496-75E9-4287-964A-DE58549354DD}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "StateManagement2", "..\..\..\..\documents\visual studio 2015\StateManagement2\StateManagement2.xproj", "{59EFF24B-BF25-4C31-B413-4E12EC4D6DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB754496-75E9-4287-964A-DE58549354DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB754496-75E9-4287-964A-DE58549354DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB754496-75E9-4287-964A-DE58549354DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB754496-75E9-4287-964A-DE58549354DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EFF24B-BF25-4C31-B413-4E12EC4D6DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EFF24B-BF25-4C31-B413-4E12EC4D6DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EFF24B-BF25-4C31-B413-4E12EC4D6DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EFF24B-BF25-4C31-B413-4E12EC4D6DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
